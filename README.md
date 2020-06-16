@@ -1,7 +1,6 @@
 # Kafka Streams to Filter Tweets
 
-
-# This application will consume tweets from a Kafka Topic and send them to a different Kafka Topic.
+This application will consume tweets from a Kafka Topic and send them to a different Kafka Topic.
 
 ### Useful commands
 
